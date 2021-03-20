@@ -18,4 +18,6 @@ The data and instructions will allow replication of the results shown in the rep
 
 This folder contains data and input files for phylogenetic and phylogeographical analyses, including:
 
-* the multiple sequence alignment file for contemporaneously sampled global sequences from GISAID https://platform.gisaid.org/epi3/cfrontend in H1N1pdm09_global/**H1N1pdm09_global_sequences_2009-2018.fasta**.
+* the multiple sequence alignment file for contemporaneously sampled global sequences from GISAID https://platform.gisaid.org/epi3/cfrontend collected between 2009 and 2018 in H1N1pdm09_global/**H1N1pdm09_global_sequences_2009-2018.fasta**
+*
+* the metadata file for Kenyan genome sequences collected between 2009 and 2018 in H1N1pdm09_global/**H1N1pdm09_Kenya_2009-2018.txt**.
