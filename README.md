@@ -1,4 +1,4 @@
-# H1N1pdm09_Kenya_phylodynamics
+# H1N1pdm09 Kenya phylodynamics, 2009-2018
 
 Author:	David Collins Owuor
 
