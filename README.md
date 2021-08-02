@@ -1,4 +1,5 @@
-# H1N1pdm09 Kenya phylodynamics, 2009-2018
+# Characterising the countrywide epidemic spread of influenza A(H1N1)pdm09 virus in
+Kenya between 2009 and 2018.
 
 Author:	David Collins Owuor
 
@@ -6,18 +7,47 @@ Institution:	KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya
 
 Date Published: 20 March 2021
 
+Pre-print: https://www.medrxiv.org/content/10.1101/2021.03.30.21254587v1.
+
+
 ## Introduction
 
-This repository contains data and input files for the phylodynamic analysis of **influenza A H1N1pdm09 virus from Kenya, 2009-2018.**
+This repository contains data and input files for the phylodynamic and phylogeographical
+analysis of **human influenza A(H1N1)pdm09 virus from Kenya, 2009-2018.**
+
 
 ## General instructions
 
 The data and instructions will allow replication of the results shown in the report.
 
-## Data
 
-This folder contains data and input files for phylogenetic and phylogeographical analyses, including:
+## 1_Data
 
-* the metadata file for Kenyan genome sequences collected between 2009 and 2018 in H1N1pdm09_Kenya/**H1N1pdm09_Kenya_2009-2018.txt**
+This folder contains data and input files for phylodynamic and phylogeographical analyses
+of Kenyan and global influenza A(H1N1)pdm09 virus genome data:
 
-* the multiple sequence alignment file for contemporaneously sampled global sequences from GISAID https://platform.gisaid.org/epi3/cfrontend collected between 2009 and 2018 in H1N1pdm09_global/**H1N1pdm09_global_sequences_2009-2018.fasta**
+1. H1N1pdm09_Kenya_genomes_2009-2018.tsv
+
+A list of 383 influenza A(H1N1)pdm09 virus (2009-2018) sequence data from Kenya showing:
+strain - virus strain identity; accession - GISAID accession number; site - location of
+isolation; reads - number of sequencing reads; number of influenza virus reads; Ct - PCR
+Ct value; and date - collection dates.
+
+2. H1N1pdm09_global_genomes_2009-2018.tsv
+
+A list of 1,587 global influenza A(H1N1)pdm09 virus sequence data showing: strain -
+virus strain identity; accession - GISAID accession number; country - country of isolation; 
+and continent - continent of isolation.
+
+## 2_Analysis
+
+Analysis files for analysis of virus introductions, transmission clusters, and patterns of
+spread of influenza A(H1N1)pdm09 virus in Kenya.
+
+1. H1N1pdm09_metadata.tsv
+
+A list of 383 influenza A(H1N1)pdm09 virus sequence data from Kenya between 2009 and 2018
+showing: strain - virus strain identity showing collection date; virus - virus identity;
+date - date of virus sampling; site - location in Kenya of virus isolation; region - region
+in Kenya of virus isolation; clade - genetic group membership; cluster - transmission
+cluster  membership.
