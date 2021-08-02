@@ -20,7 +20,7 @@ analysis of **human influenza A(H1N1)pdm09 virus from Kenya, 2009-2018.**
 The data and instructions will allow replication of the results shown in the report.
 
 
-## 1_Data
+## Data
 
 This folder contains data and input files for phylodynamic and phylogeographical analyses
 of Kenyan and global influenza A(H1N1)pdm09 virus genome data:
@@ -38,7 +38,7 @@ A list of 1,587 global influenza A(H1N1)pdm09 virus sequence data showing: strai
 virus strain identity; accession - GISAID accession number; country - country of isolation; 
 and continent - continent of isolation.
 
-## 2_Analysis
+## Analysis
 
 Analysis files for analysis of virus introductions, transmission clusters, and patterns of
 spread of influenza A(H1N1)pdm09 virus in Kenya.
