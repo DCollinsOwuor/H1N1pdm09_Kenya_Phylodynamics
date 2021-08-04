@@ -23,7 +23,7 @@ The data and instructions will allow replication of the results shown in the rep
 ## Data
 
 This folder contains data and input files for phylodynamic and phylogeographical analyses
-of Kenyan and global influenza A(H1N1)pdm09 virus genome data:
+of Kenyan and global influenza A(H1N1)pdm09 virus sequence data:
 
 1. H1N1pdm09_Kenya_genomes_2009-2018.tsv
 
