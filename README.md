@@ -8,17 +8,14 @@ Date Published: 20 March 2021
 
 Pre-print: https://www.medrxiv.org/content/10.1101/2021.03.30.21254587v1.
 
-
 ## Introduction
 
 This repository contains data and input files for the phylodynamic and phylogeographical
 analysis of **human influenza A(H1N1)pdm09 virus from Kenya, 2009-2018.**
 
-
 ## General instructions
 
 The data and instructions will allow replication of the results shown in the report.
-
 
 ## Data
 
