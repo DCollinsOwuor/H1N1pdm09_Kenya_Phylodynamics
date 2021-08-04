@@ -1,4 +1,4 @@
-# Characterising the countrywide epidemic spread of influenza A(H1N1)pdm09 virus in Kenya between 2009 and 2018.
+# Characterising the countrywide epidemic spread of influenza A(H1N1)pdm09 virus in Kenya between 2009 and 2018
 
 Author:	David Collins Owuor
 
