@@ -45,8 +45,8 @@ spread of influenza A(H1N1)pdm09 virus in Kenya.
 
 1. H1N1pdm09_metadata.tsv
 
-A list of 383 influenza A(H1N1)pdm09 virus sequence data from Kenya between 2009 and 2018
-showing: strain - virus strain identity showing collection date; virus - virus identity;
-date - date of virus sampling; site - location in Kenya of virus isolation; region - region
-in Kenya of virus isolation; clade - genetic group membership; cluster - transmission
-cluster  membership.
+A list of 383 influenza A(H1N1)pdm09 virus sequence data from Kenya collected between 2009
+and 2018 showing: strain - virus strain identity showing collection date; virus - virus
+identity; date - date of virus sampling; site - location of virus isolation in Kenya; region
+- region of virus isolation in Kenya; clade - genetic group membership; cluster - transmission
+cluster  membership identified through ancestral state reconstruction.
