@@ -1,5 +1,5 @@
 # Script for re-estimating the number of introductions into Kenya
-# Author:   D. Collins Owuor
+# Author:   Nicola F. Müller
 # Last updated:   10-April-2021
 # 1.Clear data in memory, load packages, set working directory, and load dataset
 
