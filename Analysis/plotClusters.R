@@ -1,4 +1,4 @@
-# Script for re-estimating the number of introductions into Kenya
+# Script for re-estimating the number of A(H1N1)pdm09 virus introductions into Kenya
 # Author:   Nicola F. Müller
 # Last updated:   10-April-2021
 # 1.Clear data in memory, load packages, set working directory, and load dataset
